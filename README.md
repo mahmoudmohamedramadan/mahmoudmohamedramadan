@@ -33,6 +33,9 @@ i'm Software engineer with a demonstrated history of working in Information Tech
 <a href="https://laravel-livewire.com/" title="Laravel-Livewire"><img src="https://github.com/get-icon/geticon/blob/master/icons/livewire-underwater-jelly.svg" alt="Laravel-Livewire" width="50px" height="50px"></a>
 <a href="https://dev.mysql.net/" title="MySQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MySQL" width="50px" height="50px"></a>
 
+### GitHub Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahmoudmohamedramadan&theme=onedark)](https://github.com/mahmoudmohamedramadan/mahmoudmohamedramadan)
+
 ### GitHub Stats
 [![stats](https://github-readme-stats.vercel.app/api?username=mahmoudmohamedramadan&count_private=true&show_icons=true&theme=onedark)](https://github.com/mahmoudmohamedramadan/mahmoudmohamedramadan)
 
