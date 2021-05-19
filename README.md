@@ -2,7 +2,7 @@
 <p align="center">
     <a href="https://www.facebook.com/mahmoud.ramadan.10690203" target="_blank"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=Facebook&logoColor=white"/></a>
     <a href="https://twitter.com/Mahmoud53953966a" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
-    <a href="https://www.instagram.com/mahmoud.m.ramadan.5" target="_blanck"><img src="https://img.shields.io/badge/Instagram-%23E1306C?style=flat&logo=Instagram&logoColor=white"/></a>
+    <a href="https://www.instagram.com/mahmoud.m.ramadan.5" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E1306C?style=flat&logo=Instagram&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/mahmoud-mohamed-ramadan-268b93188" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.youtube.com/channel/UCY2m151N48wQniDofQHMAJA" target="_blank"><img src="https://img.shields.io/badge/Youtube-%230177B5?style=flat&logo=youtube&color=red&logoColor=white"/></a>
 </p>
@@ -34,14 +34,12 @@ i'm Software engineer with a demonstrated history of working in Information Tech
 <a href="https://github.com/alpinejs/alpine" target="_blank" title="AlpineJS"><img src="https://github.com/get-icon/geticon/blob/master/icons/alpinejs-icon-circle.svg" alt="AlpineJS" width="50px" height="50px"></a>
 <a href="https://dev.mysql.net/" target="_blank" title="MySQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MySQL" width="50px" height="50px"></a>
 
-### GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahmoudmohamedramadan&theme=onedark)](https://github.com/mahmoudmohamedramadan/mahmoudmohamedramadan)
-
 ### GitHub Stats
-[![stats](https://github-readme-stats.vercel.app/api?username=mahmoudmohamedramadan&count_private=true&show_icons=true&theme=onedark)](https://github.com/mahmoudmohamedramadan/mahmoudmohamedramadan)
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudmohamedramadan&theme=onedark" target="_blank"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudmohamedramadan&theme=onedark" width="49%" /></a>
+<a href="https://github-readme-stats.vercel.app/api?username=mahmoudmohamedramadan&count_private=true&show_icons=true&theme=onedark" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudmohamedramadan&count_private=true&show_icons=true&theme=onedark" width="49%" /></a>
 
 ### GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=mahmoudmohamedramadan&theme=onedark)](https://github.com/mahmoudmohamedramadan/mahmoudmohamedramadan)
+<a href="https://github-profile-trophy.vercel.app/?username=mahmoudmohamedramadan&theme=onedark" target="_blank"><img align="center" src="https://github-profile-trophy.vercel.app/?username=mahmoudmohamedramadan&theme=onedark" width="98%" /></a>
 
 <p align="center">You have stayed on my page for</p>
 <p align="center"><img src="https://github.com/mahmoudmohamedramadan/mahmoudmohamedramadan/blob/main/clock.svg" alt="Clock" width="200px" height="200px" style="max-width:100%;"></p>
