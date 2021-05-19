@@ -34,6 +34,8 @@ i'm Software engineer with a demonstrated history of working in Information Tech
 <a href="https://github.com/alpinejs/alpine" title="AlpineJS"><img src="https://github.com/get-icon/geticon/blob/master/icons/alpinejs-icon-circle.svg" alt="AlpineJS" width="50px" height="50px"></a>
 <a href="https://dev.mysql.net/" title="MySQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MySQL" width="50px" height="50px"></a>
 
+## Latest Project
+<a href="https://github.com/mahmoudmohamedramadan/Laravel-Websocket"><img src="https://github.com/mahmoudmohamedramadan/Laravel-Websocket/blob/master/Laravel%20Websocket.gif" alt="Laravel Websocket"></a>
 ### GitHub Stats
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudmohamedramadan&theme=onedark"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudmohamedramadan&theme=onedark" width="49%" /></a>
 <a href="https://github-readme-stats.vercel.app/api?username=mahmoudmohamedramadan&count_private=true&show_icons=true&theme=onedark"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudmohamedramadan&count_private=true&show_icons=true&theme=onedark" width="49%" /></a>
