@@ -30,7 +30,7 @@ I'm Software engineer with a demonstrated history of working in Information Tech
 <a href="https://www.getpostman.com/" title="Postman"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/postman.svg" alt="Postman" width="50px" height="50px"></a>
 <a href="https://php.net/" title="PHP"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/php.svg" alt="PHP" width="50px" height="50px"></a>
 <a href="https://laravel.com/" title="Laravel"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/laravel.svg" alt="Laravel" width="50px" height="50px"></a>
-<a href="https://orchid.software/en/" title="Orchid"><img src="https://github.com/get-icon/geticon/blob/master/icons/orchid.svg" alt="Orchid" width="50px" height="50px"></a>
+<a href="https://orchid.software/" title="Orchid"><img src="https://github.com/get-icon/geticon/blob/master/icons/orchid.svg" alt="Orchid" width="50px" height="50px"></a>
 <a href="https://laravel-livewire.com/" title="Laravel-Livewire"><img src="https://github.com/get-icon/geticon/blob/master/icons/livewire-underwater-jelly.svg" alt="Laravel-Livewire" width="50px" height="50px"></a>
 <a href="https://github.com/alpinejs/alpine" title="AlpineJS"><img src="https://github.com/get-icon/geticon/blob/master/icons/alpinejs-icon-circle.svg" alt="AlpineJS" width="50px" height="50px"></a>
 <a href="https://dev.mysql.net/" title="MySQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MySQL" width="50px" height="50px"></a>
