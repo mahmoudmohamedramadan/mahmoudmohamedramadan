@@ -9,7 +9,7 @@
 
 <img src="https://github.com/mahmoudmohamedramadan/mahmoudmohamedramadan/blob/main/profile-img.png" align="right" width="25%"/>
 
-I'm Software engineer with a demonstrated history of working in Information Technology & Services. I'm Desktop Engineer and Back-End Developer also I'm creator of <a href="https://github.com/mahmoudmohamedramadan/mr-darkest-theme">mr-darkest-theme</a> and strong engineering professional with a Bachelors degree focused in Computer Science from Mansoura University
+I'm a Software engineer with a demonstrated history of working in Information Technology & Services, I'm Desktop Engineer and Back-End Developer, also I'm creator of <a href="https://github.com/mahmoudmohamedramadan/mr-darkest-theme">mr-darkest-theme</a> and strong engineering professional with a Bachelors degree focused in Computer Science from Mansoura University
 
 ### Languages and Tools
 <a href="https://visualstudio.microsoft.com/" title="Visual Studio"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio.svg" alt="Visual Studio" width="50px" height="50px"></a>
