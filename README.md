@@ -1,10 +1,11 @@
 <h1 align="center">Hi I'm Mahmoud 👋</h1>
 <p align="center">
-    <a href="https://www.facebook.com/mahmoud.ramadan.10690203"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=Facebook&logoColor=white"/></a>
-    <a href="https://twitter.com/Mahmoud53953966a"><img src="https://img.shields.io/badge/Twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
-    <a href="https://www.instagram.com/mahmoud.m.ramadan.5"><img src="https://img.shields.io/badge/Instagram-%23E1306C?style=flat&logo=Instagram&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/mahmoud-mohamed-ramadan-268b93188"><img src="https://img.shields.io/badge/Linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-    <a href="https://www.youtube.com/channel/UCY2m151N48wQniDofQHMAJA"><img src="https://img.shields.io/badge/Youtube-%230177B5?style=flat&logo=youtube&color=red&logoColor=white"/></a>
+    <a href="https://www.facebook.com/mahmoud.ramadan.10690203" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=Facebook&logoColor=white"/></a>
+    <a href="https://twitter.com/Mahmoud53953966a" title="Twitter"><img src="https://img.shields.io/badge/Twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
+    <a href="https://www.instagram.com/mahmoud.m.ramadan.5" title="Instagram"><img src="https://img.shields.io/badge/Instagram-%23E1306C?style=flat&logo=Instagram&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/mahmoud-mohamed-ramadan-268b93188" title="LinkedIn"><img src="https://img.shields.io/badge/Linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.youtube.com/channel/UCY2m151N48wQniDofQHMAJA" title="Youtube"><img src="https://img.shields.io/badge/Youtube-%230177B5?style=flat&logo=youtube&color=red&logoColor=white"/></a>
+    <a href="https://github.com/mahmoudmohamedramadan" title="GitHub View"><img src="https://komarev.com/ghpvc/?username=mahmoudmohamedramadan&label=PROFILE+VIEWS" /></a>
 </p>
 
 <img src="https://github.com/mahmoudmohamedramadan/mahmoudmohamedramadan/blob/main/profile-img.png" align="right" width="25%"/>
