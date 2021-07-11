@@ -36,8 +36,12 @@ I'm a Software engineer with a demonstrated history of working in Information Te
 <a href="https://alpinejs.dev/" title="AlpineJS"><img src="https://github.com/get-icon/geticon/blob/master/icons/alpinejs-logo.svg" alt="AlpineJS" width="50px" height="50px"></a>
 <a href="https://dev.mysql.net/" title="MySQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MySQL" width="50px" height="50px"></a>
 
+## Latest YouTube Videos
+<a href="https://youtu.be/h5Iu-Jq3xnU"><img src="https://user-images.githubusercontent.com/48416569/125209263-e5e71d80-e297-11eb-9e4e-73ad63142a65.png" width="640" height="300"></a>
+
 ## Websocket Project
 <a href="https://github.com/mahmoudmohamedramadan/Laravel-Websocket"><img src="https://github.com/mahmoudmohamedramadan/Laravel-Websocket/blob/master/Laravel%20Websocket.gif" alt="Laravel Websocket"></a>
+
 ### GitHub Stats
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudmohamedramadan&theme=onedark"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudmohamedramadan&theme=onedark" width="49%" /></a>
 <a href="https://github-readme-stats.vercel.app/api?username=mahmoudmohamedramadan&count_private=true&show_icons=true&theme=onedark"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudmohamedramadan&count_private=true&show_icons=true&theme=onedark" width="49%" /></a>
