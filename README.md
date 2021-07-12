@@ -37,7 +37,7 @@ I'm a Software engineer with a demonstrated history of working in Information Te
 <a href="https://dev.mysql.net/" title="MySQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/mysql.svg" alt="MySQL" width="50px" height="50px"></a>
 
 ## Latest YouTube Videos
-<a href="https://youtu.be/h5Iu-Jq3xnU"><img src="https://user-images.githubusercontent.com/48416569/125209263-e5e71d80-e297-11eb-9e4e-73ad63142a65.png" width="640" height="300"></a>
+<a href="https://youtu.be/h5Iu-Jq3xnU"><img src="https://user-images.githubusercontent.com/48416569/125209263-e5e71d80-e297-11eb-9e4e-73ad63142a65.png" alt="Web Scraping" width=640 height=300></a>
 
 ## Websocket Project
 <a href="https://github.com/mahmoudmohamedramadan/Laravel-Websocket"><img src="https://github.com/mahmoudmohamedramadan/Laravel-Websocket/blob/master/Laravel%20Websocket.gif" alt="Laravel Websocket"></a>
