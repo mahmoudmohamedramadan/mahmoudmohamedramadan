@@ -39,15 +39,12 @@ I'm a Software engineer with a demonstrated history of working in Information Te
 ## Latest YouTube Videos
 <a href="https://youtu.be/h5Iu-Jq3xnU"><img src="https://user-images.githubusercontent.com/48416569/125209263-e5e71d80-e297-11eb-9e4e-73ad63142a65.png" alt="Web Scraping" width=640 height=300></a>
 
-## Websocket Project
-<a href="https://github.com/mahmoudmohamedramadan/Laravel-Websocket"><img src="https://github.com/mahmoudmohamedramadan/Laravel-Websocket/blob/master/Laravel%20Websocket.gif" alt="Laravel Websocket"></a>
-
 ### GitHub Stats
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudmohamedramadan&theme=onedark"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudmohamedramadan&theme=onedark" width="49%" /></a>
-<a href="https://github-readme-stats.vercel.app/api?username=mahmoudmohamedramadan&count_private=true&show_icons=true&theme=onedark"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudmohamedramadan&count_private=true&show_icons=true&theme=onedark" width="49%" /></a>
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudmohamedramadan&theme=react"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudmohamedramadan&theme=react" width="49%" /></a>
+<a href="https://github-readme-stats.vercel.app/api?username=mahmoudmohamedramadan&count_private=true&show_icons=true&theme=react"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudmohamedramadan&count_private=true&show_icons=true&theme=react" width="49%" /></a>
 
 ### GitHub Trophies
-<a href="https://github-profile-trophy.vercel.app/?username=mahmoudmohamedramadan&theme=onedark"><img align="center" src="https://github-profile-trophy.vercel.app/?username=mahmoudmohamedramadan&theme=onedark" width="98%" /></a>
+<a href="https://github-profile-trophy.vercel.app/?username=mahmoudmohamedramadan&theme=nord"><img align="center" src="https://github-profile-trophy.vercel.app/?username=mahmoudmohamedramadan&theme=nord" width="98%" /></a>
 
 <p align="center">You have stayed on my page for</p>
 <p align="center"><img src="https://github.com/mahmoudmohamedramadan/mahmoudmohamedramadan/blob/main/clock.svg" alt="Clock" width="200px" height="200px" style="max-width:100%;"></p>
