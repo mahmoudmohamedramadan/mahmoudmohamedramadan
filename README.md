@@ -26,7 +26,7 @@ I'm a Software Engineer with a demonstrated history of working in Information Te
   - [ehsaae](https://www.youtube.com/watch?v=THLMHYtb9C4)
   
 - Newer Article
-  - [What is verbatim advanced blade directive](https://www.blog.mmramadan.com/back-end/laravel/what-is-verbatim-advanced-blade-directive)
+  - [How to use ckeditor with prismjs code highlighter](https://blog.mmramadan.com/back-end/javascript/how-to-use-ckeditor-with-prismjs-code-highlighter)
 
 These lists are by no means exhaustive!
 
