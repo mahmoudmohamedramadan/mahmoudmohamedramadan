@@ -26,7 +26,7 @@ I'm a Software Engineer with a demonstrated history of working in Information Te
   - [ehsaae](https://www.youtube.com/watch?v=THLMHYtb9C4)
   
 - Newer Article
-  - [What is custom keys with scoping in Laravel](https://blog.mmramadan.com/back-end/laravel/what-is-custom-keys-with-scoping-in-laravel)
+  - [How the route custom keys work with scoping in Laravel](https://blog.mmramadan.com/back-end/laravel/how-the-route-custom-keys-work-with-scoping-in-laravel)
 
 These lists are by no means exhaustive!
 
