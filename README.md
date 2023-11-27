@@ -26,7 +26,7 @@ I'm a Software Engineer with a demonstrated history of working in Information Te
   - [ehsaae](https://www.youtube.com/watch?v=THLMHYtb9C4)
   
 - Newer Article
-  - [How to use ckeditor with prismjs code highlighter](https://blog.mmramadan.com/back-end/javascript/how-to-use-ckeditor-with-prismjs-code-highlighter)
+  - [What is custom keys and scoping in Laravel](https://blog.mmramadan.com/back-end/laravel/what-is-custom-keys-and-scoping-in-laravel)
 
 These lists are by no means exhaustive!
 
