@@ -28,6 +28,9 @@ I'm a Software Engineer with a demonstrated history of working in Information Te
 - Newer Article
   - [Leveraging virtual generated columns in MySQL using Laravel](https://blog.mmramadan.com/back-end/laravel/leveraging-virtual-generated-columns-in-mysql-using-laravel)
 
+- Newer Tip
+  - [Cascading Actions Within Transactions](https://www.blog.mmramadan.com/database/cascading-actions-within-transactions)
+
 These lists are by no means exhaustive!
 
 Any questions, or want to get involved, please get in touch. 🐘
