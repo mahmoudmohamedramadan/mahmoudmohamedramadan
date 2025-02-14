@@ -25,7 +25,7 @@ As a problem solver, I also actively contribute to [Stack Overflow](https://stac
   - [laravel/docs](https://github.com/laravel/docs)
   
 - Trending Article
-  - [Leveraging virtual generated columns in MySQL using Laravel](https://blog.mmramadan.com/back-end/laravel/leveraging-virtual-generated-columns-in-mysql-using-laravel)
+  - [Get your environment ready to welcome Laravel v12](https://blog.mmramadan.com/back-end/laravel/get-your-environment-ready-to-welcome-laravel-v12)
 
 - Trending Tip
   - [How to make the increment method trigger Model events](https://blog.mmramadan.com/eloquent/how-to-make-the-increment-method-trigger-model-events)
