@@ -25,10 +25,10 @@ As a problem solver, I also actively contribute to [Stack Overflow](https://stac
   - [laravel/docs](https://github.com/laravel/docs)
   
 - Trending Article
-  - [Get your environment ready to welcome Laravel v12](https://blog.mmramadan.com/back-end/laravel/get-your-environment-ready-to-welcome-laravel-v12)
+  - [How to Enable Relationship Autoloading in Versions Before v12.8](https://blog.mmramadan.com/back-end/laravel/how-to-enable-relationship-autoloading-in-versions-before-v12.8)
 
 - Trending Tip
-  - [How to make the increment method trigger Model events](https://blog.mmramadan.com/eloquent/how-to-make-the-increment-method-trigger-model-events)
+  - [Auto-Delete File After Download](https://blog.mmramadan.com/responses/auto-delete-file-after-download)
 
 These lists are by no means exhaustive!
 
