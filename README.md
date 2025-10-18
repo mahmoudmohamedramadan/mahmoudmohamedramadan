@@ -2,7 +2,7 @@
 
 ## 🤵 About me
 
-I am a software engineer, the creator of [Digging Code](https://blog.mmramadan.com/), and an active contributor to open-source projects. With years of experience, I'm a specialist in solving complex software challenges and have received positive feedback from **developers worldwide** and **clients on freelancing platforms**.
+I am a software engineer, the creator of [Digging Code](https://blog.mmramadan.com), and an active contributor to open-source projects. With years of experience, I'm a specialist in solving complex software challenges and have received positive feedback from **developers worldwide** and **clients on freelancing platforms**.
 
 I am passionate about open-source development and have contributed to many well-known projects, including the **Laravel Framework**, **Orchid Platform**, and **Select2 Package**.
 
@@ -28,8 +28,6 @@ As a problem solver, I also actively contribute to [Stack Overflow](https://stac
   - [How to Enable Relationship Autoloading in Versions Before v12.8](https://blog.mmramadan.com/back-end/laravel/how-to-enable-relationship-autoloading-in-versions-before-v12.8)
 
 - Trending Tip
-  - [Auto-Delete File After Download](https://blog.mmramadan.com/responses/auto-delete-file-after-download)
+  - [Rehashing Passwords on Login](https://blog.mmramadan.com/authentication/rehashing-passwords-on-login)
 
 These lists are by no means exhaustive!
-
-If you have any questions or want to get involved, please get in touch. 🐘
