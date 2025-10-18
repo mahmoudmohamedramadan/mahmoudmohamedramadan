@@ -2,7 +2,7 @@
 
 ## 🤵 About me
 
-I am a software engineer, the creator of [Digging Code](https://blog.mmramadan.com), and an active contributor to open-source projects. With years of experience, I'm a specialist in solving complex software challenges and have received positive feedback from **developers worldwide** and **clients on freelancing platforms**.
+I am a software engineer, the creator of [Digging Code](https://blog.mmramadan.com), and an active contributor to open-source projects. With years of experience, I'm a specialist in solving complex software challenges, having received positive feedback from **developers worldwide** and **clients on freelancing platforms**.
 
 I am passionate about open-source development and have contributed to many well-known projects, including the **Laravel Framework**, **Orchid Platform**, and **Select2 Package**.
 
