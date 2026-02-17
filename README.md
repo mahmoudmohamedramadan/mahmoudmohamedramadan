@@ -24,9 +24,9 @@ As a problem solver, I also actively contribute to [Stack Overflow](https://stac
   - [laravel/docs](https://github.com/laravel/docs)
   
 - Featured Article
-  - [How to Enable Relationship Autoloading in Versions Before v12.8](https://blog.mmramadan.com/back-end/laravel/how-to-enable-relationship-autoloading-in-versions-before-v12.8)
+  - [How to Enable Relationship Autoloading in Versions Before v12.8](https://mmramadan.com/articles/42)
 
 - Featured Tip
-  - [Rehashing Passwords on Login](https://blog.mmramadan.com/authentication/rehashing-passwords-on-login)
+  - [Breaking Multiple Loops in PHP](https://mmramadan.com/tips/53)
 
 These lists are by no means exhaustive!
