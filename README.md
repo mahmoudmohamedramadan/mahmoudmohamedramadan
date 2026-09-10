@@ -1,0 +1,32 @@
+# Howdy there, I'm Mahmoud 👋
+
+## 📌 My Journey
+
+I am a software engineer, the creator of [Digging Code](https://mmramadan.com), and an active contributor to open-source projects. With years of experience, I specialize in solving complex software challenges and have received positive feedback from **developers worldwide** and **clients on freelancing platforms**.
+
+I am passionate about open-source development and have contributed to many well-known projects, including the **Laravel Framework**, **Orchid Platform**, and **Select2 Package**.
+
+In addition to contributing to existing projects, I also create open-source tools designed to make developers' lives easier. Some of my projects include the [Easy Model](https://github.com/mahmoudmohamedramadan/easy-model) for **Laravel developers**, the [Midnight Echo](https://github.com/mahmoudmohamedramadan/midnight-echo) for **VS Code users**, and several full Laravel applications. I'm always seeking new opportunities to release tools that streamline development and improve efficiency.
+
+As a problem solver, I also contribute to [Stack Overflow](https://stackoverflow.com/users/11019205), where I've answered numerous questions on topics such as **SQL**, **PHP**, and the **Laravel Framework**.
+
+## ⚡ What I'm Up To
+
+- I currently maintain several open-source projects, including:
+  - [Easy Model](https://github.com/mahmoudmohamedramadan/easy-model)
+  - [Custom Fresh](https://github.com/mahmoudmohamedramadan/custom-fresh)
+  - [Midnight Echo](https://github.com/mahmoudmohamedramadan/midnight-echo)
+  - [Laravel Digging v8](https://github.com/mahmoudmohamedramadan/Laravel-Digging-v8)
+  - [Awesome PHP](https://github.com/mahmoudmohamedramadan/Awesome-PHP)
+
+- I'm also actively contributing to:
+  - [laravel/framework](https://github.com/laravel/framework)
+  - [laravel/docs](https://github.com/laravel/docs)
+  
+- Featured Article
+  - [How to Enable Relationship Autoloading in Versions Before v12.8](https://learn.mmramadan.com/articles/42)
+
+- Featured Tip
+  - [Laravel Collections Bug Caused by Arrow Functions](https://learn.mmramadan.com/tips/54)
+
+These lists are by no means exhaustive!
